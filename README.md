@@ -1,5 +1,5 @@
 ### Hey there, My name is Axel Ekamba 👋
-I am Web developer, I am currently on an internship in RateDateMate ApS. 
+I am a Web developer, I am currently on an internship in RateDateMate ApS. 
 <!--
 **Ekamba/Ekamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
