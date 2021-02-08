@@ -50,7 +50,7 @@
 <p align="center">
 <a href="axel-ekamba-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-axel-ekamba-portfolio.netlify.app/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/axelekamba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Axel%20Ekamba%20Gassay-blue?style=flat-square&logo=linkedin"></a>
-<a href="axelleonide@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-axelleonide@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:axelleonide@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-axelleonide@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Ekamba](https://github.com/Ekamba)
