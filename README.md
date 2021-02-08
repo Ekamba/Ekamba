@@ -21,11 +21,11 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![KnexJS](https://img.shields.io/badge/-KnexJS-333333?style=flat&logo=knex)
+  ![KnexJS](https://img.shields.io/badge/-KnexJS-333333?style=flat&logo=knexjs)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -48,7 +48,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://client-memories.herokuapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.client-memories.herokuapp.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/axelekamba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Axel%20Ekamba%20Gassay-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:axelleonide@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-axelleonide@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
