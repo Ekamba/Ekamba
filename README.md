@@ -11,8 +11,8 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![ReactJS](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
-  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScrip](https://img.shields.io/badge/-JavaScrpt-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
