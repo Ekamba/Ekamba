@@ -12,7 +12,7 @@
 
 - 💻 &nbsp;
   ![ReactJS](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React Native-333333?style=flat&logo=react native)
+  ![ReactNative](https://img.shields.io/badge/-React Native-333333?style=flat&logo=reactnative)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScrip](https://img.shields.io/badge/-JavaScrpt-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
