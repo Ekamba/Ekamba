@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Axel Ekamba.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -11,7 +11,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![React JS](https://img.shields.io/badge/-React Js-333333?style=flat&logo=react)
+  ![ReactJS](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React Native-333333?style=flat&logo=react native)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScrip](https://img.shields.io/badge/-JavaScrpt-333333?style=flat&logo=Java&logoColor=007396)
