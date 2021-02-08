@@ -12,14 +12,14 @@
 
 - 💻 &nbsp;
   ![ReactJS](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
-  ![ReactNative](https://img.shields.io/badge/-React Native-333333?style=flat&logo=reactnative)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScrip](https://img.shields.io/badge/-JavaScrpt-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Material UI](https://img.shields.io/badge/-Material UI-333333?style=flat&logo=material ui&logoColor=563D7C)
+  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=materialui&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 - 🛢 &nbsp;
