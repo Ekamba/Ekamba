@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Axel Ekamba.</h2>
+<h2> Hey there! I am Axel Ekamba.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
