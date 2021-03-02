@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing website, mobiles applications and software solutions and quick hacks.
-- 🎓 &nbsp; Studying Full Stack Web Development at HackYourFuture Copenhagen.
-- 🎓 &nbsp; Studying Audit and accounting at Hautes Etudes Comptables et Financires.
-- 💼 &nbsp; Recently working as intern at Ating APS as a full stack web developer.
+- 🎓 &nbsp; Studied Full Stack Web Development at HackYourFuture Copenhagen.
+- 🎓 &nbsp; Studied Audit and accounting at Hautes Etudes Comptables et Financires.
+- 💼 &nbsp; Recently worked as intern at Ating APS as a full stack web developer.
 - 🌱 &nbsp; Learning everything related to personal development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
