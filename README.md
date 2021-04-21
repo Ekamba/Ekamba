@@ -10,6 +10,8 @@
 - 💼 &nbsp; Recently worked as intern at Ating APS as a full stack web developer.
 - 🌱 &nbsp; Learning everything related to personal development.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
