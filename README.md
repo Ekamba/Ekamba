@@ -1,3 +1,6 @@
+![Hey there, my name is Axel Ekamba, I'm a software and web developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
+
 <h2> Hey there! My name is Axel Ekamba.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
