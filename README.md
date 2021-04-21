@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, my name is Axel Ekamba</h1>
-<h3 align="center">I am full stack web developer</h3>
+![Intro GIF](intro.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekamba&label=Profile%20views&color=0e75b6&style=flat" alt="ekamba" /> </p>
+### 👋 Hi I'm Nikita
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekamba" alt="ekamba" /></a> </p>
+- 🌱 I’m currently learning **JS and HTML & CSS**
+- 👯 I’m looking to collaborate on **[karan/Projects](https://github.com/karan/Projects)**
+- 🤔 I’m looking for help with **learning GitHub Actions**
+- 💬 Ask me about **Python and Telegram bots development**
+- 😄 Pronouns: **he/him/his**
+- ⚡ Fun fact: **I like solving puzzles**
 
-<p align="left"> <a href="https://twitter.com/ekambs2" target="blank"><img src="https://img.shields.io/twitter/follow/ekambs2?logo=twitter&style=for-the-badge" alt="ekambs2" /></a> </p>
+### 📐 Languages and Tools
 
-- 🔭 I’m currently working in [Bluebenu](http://bluebenu.dk/)
+<img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
+<img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
+<img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
+<img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
+<img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
+<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
+<img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
+<img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
 
-- 👨‍💻 All of my projects are available at [https://axel-ekamba-portfolio.netlify.app/](https://axel-ekamba-portfolio.netlify.app/)
+<br/>
 
-- 📫 How to reach me **axelleonide@gmail.com**
+### 📕 Latest Blog Posts
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ekambs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ekambs2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/axelekamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="axelekamba" height="30" width="40" /></a>
-</p>
+<!-- BLOG_POSTS:START -->
+<ul>
+<li>🎯 <a href="https://dev.to/dartcoder/maze-generator-on-python-ci">Maze Generator on Python!</a></li>
+<li>🔥 <a href="https://dev.to/dartcoder/day-13-created-my-personal-site-4fk8">Day 13: Created my Personal Site</a></li>
+<li>🚀 <a href="https://dev.to/dartcoder/day-12-still-trying-to-make-a-beautiful-web-page-2ege">Day 12: Still trying to make a beautiful web page...</a></li>
+<li>💯 <a href="https://dev.to/dartcoder/day-11-how-do-you-write-websites-so-they-look-the-same-on-smartphones-4n5j">Day 11: How do you write websites so they look the same on smartphones?</a></li>
+<li>⚡️ <a href="https://dev.to/dartcoder/day-9-i-made-a-simple-website-4j3j">Day 9 - 10: I made a simple website</a></li>
+</ul>
+<!-- BLOG_POSTS:END -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### ⭐ GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekamba&show_icons=true&locale=en&layout=compact" alt="ekamba" /></p>
+![Nikita's Github stats](https://github-readme-stats.vercel.app/api?username=dart-coder&show_icons=true&hide_border=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekamba&show_icons=true&locale=en" alt="ekamba" /></p>
+![Nikita's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakanikita&hide_border=true&v=2)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekamba&" alt="ekamba" /></p>
+<a href="https://dev.to/dartcoder">
+  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nikita's DEV Profile" height="30" width="30">
+</a>
+
+<a href="https://t.me/nikita_pshenichny">
+  <img align="right" src="https://bit.ly/2LYAT2b" alt="Nikita's Telegram Account" height="30" width="30">
+</a>
+-----
+Credits: [dart-coder](https://github.com/dart-coder)
+
+Last Edited on: 15/01/2021
