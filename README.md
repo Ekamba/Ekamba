@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! my name is Axel Ekamba</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> <h2>Hey there! my name is Axel Ekamba</h2>
 
 <!-- ## 👋 &nbsp;Hey there! my name is Axel Ekamba -->
 
