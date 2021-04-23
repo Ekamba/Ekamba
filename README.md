@@ -1,4 +1,4 @@
-<h2 color="blue">Hey there! my name is Axel Ekamba</h2>
+<h2>Hey there! my name is Axel Ekamba</h2>
 
 <!-- ## 👋 &nbsp;Hey there! my name is Axel Ekamba -->👋 &nbsp
 
