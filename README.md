@@ -1,6 +1,6 @@
 <h2>Hey there! my name is Axel Ekamba</h2>
 
-<!-- ## 👋 &nbsp;Hey there! my name is Axel Ekamba -->👋 &nbsp
+<!-- ## 👋 &nbsp;Hey there! my name is Axel Ekamba 👋-->
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
