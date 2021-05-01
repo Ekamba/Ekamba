@@ -52,7 +52,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/axelekamba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Axel%20Ekamba%20Gassay-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/axel-ekamba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Axel%20Ekamba%20Gassay-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:axelleonide@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-axelleonide@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
