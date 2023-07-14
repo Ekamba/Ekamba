@@ -11,8 +11,8 @@
 - 💼 &nbsp; worked as an intern at BlueBenu as a web developer.
 - 💼 &nbsp; worked as an intern at Roomkast as a frontend developer.
 - 💼 &nbsp; worked as an intern at Running Radiator as a mobile developer.
+- 🌱 &nbsp; Learning the right skillsets, mindset, personal development, and personal growth.
 - 💼 &nbsp; I am currently working as a frontend developer at Coalescent Mobile Robotics.
-- 🌱 &nbsp; Learning everything related to personal development.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
