@@ -4,11 +4,14 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing website, mobiles applications and software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing websites, mobile applications and software solutions, and quick hacks.
 - 🎓 &nbsp; Studied Full Stack Web Development at HackYourFuture Copenhagen.
-- 🎓 &nbsp; Studied Audit and accounting at Hautes Etudes Comptables et Financires.
-- 💼 &nbsp; Recently worked as intern at Ating APS as a full stack web developer.
-- 💼 &nbsp; Actually I am working as intern at BlueBenu as a web developer.
+- 🎓 &nbsp; Studied Audit and accounting at Hautes Etudes Comptables et Financiers.
+- 💼 &nbsp; worked as an intern at Ating APS as a full-stack web developer.
+- 💼 &nbsp; worked as an intern at BlueBenu as a web developer.
+- 💼 &nbsp; worked as an intern at Roomkast as a frontend developer.
+- 💼 &nbsp; worked as an intern at Running Radiator as a mobile developer.
+- 💼 &nbsp; I am currently working as a frontend developer at Coalescent Mobile Robotics.
 - 🌱 &nbsp; Learning everything related to personal development.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -39,13 +42,6 @@
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-
-<a href="https://github.com/Ekamba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ekamba&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekamba&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
